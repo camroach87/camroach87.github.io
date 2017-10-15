@@ -37,4 +37,4 @@ I enjoy learning about new learning algorithms and testing their performance. My
 
 ## In closing
 
-This blog is likely to start with reasonably simple material. An occassional tutorial or data science experiment will be posted now and then. As I develop my skills there will probably be some more research and package development feeding in. Hopefully this can help some people in the community!
+This blog is likely to start with reasonably simple material. An occasional tutorial or data science experiment will be posted now and then. As I develop my skills there will probably be some more research and package development feeding in. Hopefully this can help some people in the community!
