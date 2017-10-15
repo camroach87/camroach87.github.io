@@ -17,7 +17,7 @@ This blog is my attempt to give something back. My background is in probability 
 
 ## R
 
-I have been programming in R for several years and have started to develop packages to help me with my workflow. I'm a big believer in the "tidyverse" way of doing things and aim to offer some tutorials on the more popular packages such as dplyr, tidyr, ggplot2 and shiny.
+I have been programming in R for several years and have started to develop packages to help with my workflow. I'm a big believer in the "tidyverse" way of doing things and aim to offer some tutorials on the more popular packages such as dplyr, tidyr, ggplot2 and shiny.
 
 R is a fantastic language, but does have a sharp learning curve early on. I hope that my tutorials can help others to overcome this initial challenge and start getting results quickly.
 
