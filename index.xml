@@ -6,10 +6,20 @@
     <description>Recent content on Cameron&#39;s blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 15 Oct 2017 22:47:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 17 Oct 2017 10:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>tidyverse: readr</title>
+      <link>/post/2017-10-17-tidyverse-readr/</link>
+      <pubDate>Tue, 17 Oct 2017 10:00:00 +0000</pubDate>
+      
+      <guid>/post/2017-10-17-tidyverse-readr/</guid>
+      <description>Loading data can be the most innocuous and frustrating challenge when doing data science. Missing values, trailing commas, additional quotes and commas in strings and many other issues can all cause issues.
+This post assumes that you’ve managed to get your data into a reasonable format. The above points are a good place to start if you’re having issues. If you can’t work out why your data won’t load always try viewing it in a text editor such as Notepad++ or Atom.</description>
+    </item>
     
     <item>
       <title>A new blog</title>
