@@ -48,7 +48,7 @@
                     </h1>
                     <h2 class="headline">
                     Oct 17, 2017 10:00
-                    · 247 words
+                    · 248 words
                     · 2 minutes read
                       <span class="tags">
                       
@@ -83,15 +83,18 @@
 require(lubridate)
 
 
-data &lt;- read_csv(file = &quot;../../data/2017-10-17-data.csv&quot;)</code></pre>
-<pre class="r"><code>head(data)
-##                                                                      
-## 1 function (..., list = character(), package = NULL, lib.loc = NULL, 
-## 2     verbose = getOption(&quot;verbose&quot;), envir = .GlobalEnv)            
-## 3 {                                                                  
-## 4     fileExt &lt;- function(x) {                                       
-## 5         db &lt;- grepl(&quot;\\\\.[^.]+\\\\.(gz|bz2|xz)$&quot;, x)              
-## 6         ans &lt;- sub(&quot;.*\\\\.&quot;, &quot;&quot;, x)</code></pre>
+csv_data &lt;- read_csv(file = &quot;../../data/2017-10-17-data.csv&quot;)
+
+head(csv_data)
+## # A tibble: 6 x 3
+##         Date Project  Income
+##        &lt;chr&gt;   &lt;chr&gt;   &lt;int&gt;
+## 1   1/1/2010       A 1003412
+## 2  5/12/2011       A   23421
+## 3  13/1/2010       A 1003412
+## 4  1/12/2011       A   23421
+## 5  21/1/2010       A 1003412
+## 6 12/12/2011       A   23421</code></pre>
 <!-- ```{r} -->
 <!-- require(ggplot2) -->
 <!-- ggplot(data, aes(x=Project, y=Income)) + -->
