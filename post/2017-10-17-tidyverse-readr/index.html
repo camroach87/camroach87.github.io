@@ -48,7 +48,7 @@
                     </h1>
                     <h2 class="headline">
                     Oct 17, 2017 10:23
-                    · 685 words
+                    · 684 words
                     · 4 minutes read
                       <span class="tags">
                       
@@ -123,8 +123,8 @@ require(lubridate)</code></pre>
 ## a multiple of vector length (arg 2)
 ## Warning: 1 parsing failure.
 ## row # A tibble: 1 x 5 col     row   col   expected     actual                             file expected   &lt;int&gt; &lt;chr&gt;      &lt;chr&gt;      &lt;chr&gt;                            &lt;chr&gt; actual 1    10  Date valid date 30/13/2011 &#39;../../data/2017-10-17-data.csv&#39; file # A tibble: 1 x 5</code></pre>
-<p>Remembering the correct date specification is a real pain (<a href="http://strftime.net/">this</a> site can be useful). Personally I avoid this method and instead use <code>lubrdate</code> and <code>dplyr</code> to convert strings into dates, but that’s a topic for another tutorial.</p>
-<p>The correctly formatted data is shown below. Notice that one of the dates was invalid (30/13/2011) and so an <code>NA</code> value was read in.</p>
+<p>Remembering the correct date specification is a real pain (<a href="http://strftime.net/">this</a> site can be useful). Personally I find it easier to use the <code>lubridate</code> and <code>dplyr</code> packages to convert strings into dates, but that’s a topic for another tutorial!</p>
+<p>The correctly formatted data is shown below. One of the dates was invalid (30/13/2011) and so an <code>NA</code> value was read in.</p>
 <pre class="r"><code>csv_data
 ## # A tibble: 14 x 3
 ##          Date Project  Income
