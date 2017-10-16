@@ -48,8 +48,8 @@
                     </h1>
                     <h2 class="headline">
                     Oct 17, 2017 10:00
-                    · 163 words
-                    · 1 minute read
+                    · 247 words
+                    · 2 minutes read
                       <span class="tags">
                       
                       
@@ -67,23 +67,36 @@
                 </header>
                 
                 <section id="post-body">
-                    <p>Loading data can be the most innocuous and frustrating challenge when doing data science. Missing values, trailing commas, additional quotes and commas in strings and many other issues can all cause issues.</p>
-<p>This post assumes that you’ve managed to get your data into a reasonable format. The above points are a good place to start if you’re having issues. If you can’t work out why your data won’t load always try viewing it in a text editor such as Notepad++ or Atom.</p>
+                    <p>Loading data can be the most innocuous and frustrating challenge when starting a data science project. Missing values, trailing commas, superfluous quotes in strings and many other issues can all cause headaches when trying to read a csv file.</p>
+<p>This post assumes that you’ve managed to get your data into a reasonable format. The above points are a good place to start if you are having issues. If you can’t work out why your data won’t load always try viewing it in a text editor such as Notepad++ or Atom. Be wary of excel as it can hide (and sometimes introduce) problems with csv files.</p>
 <div id="packages" class="section level2">
 <h2>Packages</h2>
-<p>This tutorial will primarily look at <code>readr</code>. This package contains the <code>read_csv</code> function which is similar to base R’s <code>read.csv</code> function, but contains some improvements.</p>
-<p>We’ll also briefly use the <code>lubridate</code> package to convert some strings to usable time formats. This package is wondefully intuitive, so we won’t need to spend long learning it.</p>
+<p>This tutorial will primarily look at R’s <code>readr</code> package. This package contains the <code>read_csv</code> function which is similar to base R’s <code>read.csv</code> function, but with some enhancements.</p>
+<!-- We'll also briefly use the `lubridate` package to convert some strings to usable time formats. This package is wondefully intuitive, so we won't need to spend long learning it. -->
 </div>
 <div id="load-the-data" class="section level2">
 <h2>Load the data</h2>
 <p>If you haven’t already, install the required packages by running</p>
 <pre class="r"><code>install.packages(c(&quot;readr&quot;, &quot;lubridate&quot;))</code></pre>
-<p>The data can be loaded with</p>
+<p>The data can be loaded with the code below. The two dots (..) in the file name indicate that we wish to move up a folder from our current working directory. If you’re unsure of which directory is currently in use run the <code>getwd()</code> command to check.</p>
 <pre class="r"><code>require(readr)
 require(lubridate)
 
 
-data &lt;- read_csv(&quot;my_file.csv&quot;)</code></pre>
+data &lt;- read_csv(file = &quot;../../data/2017-10-17-data.csv&quot;)</code></pre>
+<pre class="r"><code>head(data)
+##                                                                      
+## 1 function (..., list = character(), package = NULL, lib.loc = NULL, 
+## 2     verbose = getOption(&quot;verbose&quot;), envir = .GlobalEnv)            
+## 3 {                                                                  
+## 4     fileExt &lt;- function(x) {                                       
+## 5         db &lt;- grepl(&quot;\\\\.[^.]+\\\\.(gz|bz2|xz)$&quot;, x)              
+## 6         ans &lt;- sub(&quot;.*\\\\.&quot;, &quot;&quot;, x)</code></pre>
+<!-- ```{r} -->
+<!-- require(ggplot2) -->
+<!-- ggplot(data, aes(x=Project, y=Income)) + -->
+<!--   geom_col() -->
+<!-- ``` -->
 </div>
 
                 </section>

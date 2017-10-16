@@ -17,8 +17,8 @@
       <pubDate>Tue, 17 Oct 2017 10:00:00 +0000</pubDate>
       
       <guid>/post/2017-10-17-tidyverse-readr/</guid>
-      <description>Loading data can be the most innocuous and frustrating challenge when doing data science. Missing values, trailing commas, additional quotes and commas in strings and many other issues can all cause issues.
-This post assumes that you’ve managed to get your data into a reasonable format. The above points are a good place to start if you’re having issues. If you can’t work out why your data won’t load always try viewing it in a text editor such as Notepad++ or Atom.</description>
+      <description>Loading data can be the most innocuous and frustrating challenge when starting a data science project. Missing values, trailing commas, superfluous quotes in strings and many other issues can all cause headaches when trying to read a csv file.
+This post assumes that you’ve managed to get your data into a reasonable format. The above points are a good place to start if you are having issues. If you can’t work out why your data won’t load always try viewing it in a text editor such as Notepad++ or Atom.</description>
     </item>
     
     <item>
