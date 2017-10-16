@@ -6,7 +6,7 @@
     <description>Recent content in R on Cameron&#39;s blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 17 Oct 2017 10:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 17 Oct 2017 10:23:00 +0000</lastBuildDate>
     
 	<atom:link href="/tags/r/index.xml" rel="self" type="application/rss+xml" />
     
@@ -14,7 +14,7 @@
     <item>
       <title>tidyverse: readr</title>
       <link>/post/2017-10-17-tidyverse-readr/</link>
-      <pubDate>Tue, 17 Oct 2017 10:00:00 +0000</pubDate>
+      <pubDate>Tue, 17 Oct 2017 10:23:00 +0000</pubDate>
       
       <guid>/post/2017-10-17-tidyverse-readr/</guid>
       <description>Loading data can be the most innocuous and frustrating challenge when starting a data science project. Missing values, trailing commas, superfluous quotes in strings and many other issues can all cause headaches when trying to read a csv file.
