@@ -17,8 +17,8 @@
       <pubDate>Tue, 17 Oct 2017 10:23:00 +0000</pubDate>
       
       <guid>/post/2017-10-17-tidyverse-readr/</guid>
-      <description>Despite appearing fairly innocuous, loading data can be one of the most frustrating challenges when starting a data science project. Missing values, trailing commas, superfluous quotes in strings and many other issues can all cause headaches when reading a csv file. I’m sure many an aspiring data scientist has been left feeling discouraged after falling at this early hurdle - I know I have.
-This post introduces some basics of loading data using a csv.</description>
+      <description>Update (21/10/2017): This is all under construction atm. Rewriting this post and figuring out some syntax highlighting issues.
+Despite appearing fairly innocuous, loading data can be one of the most frustrating challenges when starting a data science project. Missing values, trailing commas, superfluous quotes in strings and many other issues can all cause headaches when reading a csv file. I’m sure many an aspiring data scientist has been left feeling discouraged after falling at this early hurdle - I know I have.</description>
     </item>
     
   </channel>
