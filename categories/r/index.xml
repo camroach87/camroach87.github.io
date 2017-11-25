@@ -6,19 +6,19 @@
     <description>Recent content in R on Cameron&#39;s blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 17 Oct 2017 10:23:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 25 Nov 2017 10:23:00 +0000</lastBuildDate>
     
 	<atom:link href="/categories/r/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>5 minute tidyverse: readr</title>
-      <link>/post/2017-10-17-tidyverse-readr/</link>
-      <pubDate>Tue, 17 Oct 2017 10:23:00 +0000</pubDate>
+      <title>5 minute tidyverse</title>
+      <link>/post/2017-11-25-tidyverse/</link>
+      <pubDate>Sat, 25 Nov 2017 10:23:00 +0000</pubDate>
       
-      <guid>/post/2017-10-17-tidyverse-readr/</guid>
-      <description>Update (22/10/2017): I’ll be rewriting this post to add a few tips. Leaving this old version up as a stopgap.
-Despite appearing fairly innocuous, loading data can be one of the most frustrating challenges when starting a data science project. Missing values, trailing commas, superfluous quotes in strings and many other issues can all cause headaches when reading a csv file. I’m sure many an aspiring data scientist has been left feeling discouraged after falling at this early hurdle - I know I have.</description>
+      <guid>/post/2017-11-25-tidyverse/</guid>
+      <description>This series of blog posts gives a brief introduction to R’s tidyverse. The tidyverse is a fantastic framework for shaping, exploring and visualising data. Consistent syntax, intuitive behaviour and excellent performance are the main reasons to learn this set of tools. Furthermore, tidyverse packages also have stickers that may be assembled into a geometrically pleasing hex formation.
+ Figure 1: I’ll never stop.  Structure Each of the key tidyverse packages will be introduced in separate post.</description>
     </item>
     
     <item>
