@@ -47,8 +47,8 @@
                         My GEFCom2017 paper
                     </h1>
                     <h2 class="headline">
-                    Oct 14, 2018 03:11
-                    · 1858 words
+                    Oct 14, 2018 03:20
+                    · 1857 words
                     · 9 minutes read
                       <span class="tags">
                       
@@ -3591,7 +3591,7 @@ NA
 <div id="fitting-the-model" class="section level2">
 <h2>Fitting the model</h2>
 <p>I’m only fitting one model with an L1 penalty of 50 for each zone. You can do your own cross-validation by changing the <code>method</code> argument in <code>trainControl</code> and updating the list that defines <code>xgb_grid</code> to include extra hyperparameter values. The <code>cross_df</code> function returns a dataframe with all parameter combinations, so it is an easy way to create a grid for parameter tuning.</p>
-<p>Note that <code>caret</code>’s <code>train</code> function has had the number of threads set to 1 by the <code>nthread</code> argument. This is because XGBoost automatically does parallel processing. Allowing caret and XGBoost to do parallel processing at the same time causes issues.</p>
+<p>Note that we have set <code>allowParallel</code> to FALSE in <code>trainControl</code>. This is to avoid issues with XGBoost which automatically does parallel processing when the <code>nthread</code> argument is not set. I prefer using XGBoost’s parallelisation rather than <code>caret</code>’s as I found myself running into RAM usage issues with <code>caret</code>.</p>
 <pre class="r"><code>xgb_ctrl &lt;- trainControl(
   method = &quot;none&quot;,
   allowParallel = FALSE,
@@ -3618,8 +3618,7 @@ fit_boosted_model &lt;- function(train_df) {
           data = .,
           method=&quot;xgbLinear&quot;,
           trControl = xgb_ctrl,
-          tuneGrid = xgb_grid,
-          nthread = 1) # XGBoost automatically does parallel processing
+          tuneGrid = xgb_grid)
 }
 
 elec_df &lt;- elec_df %&gt;% 

@@ -6,7 +6,7 @@
     <description>Recent content in Tutorial on Cameron&#39;s blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 14 Oct 2018 03:11:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 14 Oct 2018 03:20:00 +0000</lastBuildDate>
     
 	<atom:link href="/tags/tutorial/index.xml" rel="self" type="application/rss+xml" />
     
@@ -14,7 +14,7 @@
     <item>
       <title>My GEFCom2017 paper</title>
       <link>/post/2018-09-28-gefcom2017-tut/</link>
-      <pubDate>Sun, 14 Oct 2018 03:11:00 +0000</pubDate>
+      <pubDate>Sun, 14 Oct 2018 03:20:00 +0000</pubDate>
       
       <guid>/post/2018-09-28-gefcom2017-tut/</guid>
       <description>Caveat Emptor!: This is a work in progress! I’m refactoring the original code I wrote. Trying to find a nice balance between wrapping functions up in the gefcom2017 package and using existing R packages such as purrr. This post has been uploaded early so I can include a link in the paper.
