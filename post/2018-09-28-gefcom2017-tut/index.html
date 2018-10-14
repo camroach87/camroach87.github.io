@@ -47,8 +47,8 @@
                         My GEFCom2017 paper
                     </h1>
                     <h2 class="headline">
-                    Oct 14, 2018 03:02
-                    · 1842 words
+                    Oct 14, 2018 03:11
+                    · 1858 words
                     · 9 minutes read
                       <span class="tags">
                       
@@ -103,7 +103,7 @@ hist_end_dt &lt;- dmy_hms(&quot;1/6/2016 00:00:00&quot;)</code></pre>
 <p>If you already have your data in an appropriate format (see table below) and you do not want to use the same predictors that I have you can skip ahead to fitting the model.</p>
 <div id="initial-structure" class="section level3">
 <h3>Initial structure</h3>
-<p>Data can be downloaded from <strong>TODO</strong>. This is a cleaned version of the data used in the competition. Ensure you have your data in a tidy format as shown below. If you only have one temperature variable that is fine.</p>
+<p>Data can be downloaded from <a href="https://github.com/camroach87/camroach87.github.io/blob/master/post/data/2018-09-28-gefcom2017-tut.csv">here</a>. This is a cleaned version of the data used in the competition. Ensure you have your data in a tidy format as shown below. If you only have one temperature variable that is fine.</p>
 <pre class="r"><code>library(tidyverse)
 library(lubridate)
 library(knitr)
@@ -3628,17 +3628,16 @@ elec_df &lt;- elec_df %&gt;%
 <div id="simulating-in-a-hierarchy" class="section level2">
 <h2>Simulating in a hierarchy</h2>
 <p>Now that we have fit our demand models we need to create weather and residual simulations. The weather simulations will be fed into the demand model to predict the expected demand. Our goal is to create demand simulations so we also need to add residuals back in (or we are only simulating the conditional mean). So the final step is to add residual simulations to the expected demand to create true demand simulations.</p>
-<div id="weather-simulations" class="section level3">
-<h3>Weather simulations</h3>
-<pre class="r"><code># elec_df %&gt;% 
-#   mutate(weather_sims = map(data, shuffle_weather, fcst_start_dt, fcst_end_dt, trend_start))</code></pre>
-</div>
-<div id="residual-resampling" class="section level3">
-<h3>Residual resampling</h3>
-</div>
-</div>
-<div id="hierarchical-reconciliation" class="section level2">
-<h2>Hierarchical reconciliation</h2>
+<p>Unfortunately - there’s a lot of code refactoring in the package that I need to do! I’ll update this post asap with a simple approach to weather simulation and hierarchical reconciliation.</p>
+<!-- ### Weather simulations -->
+<!-- ```{r} -->
+<!-- # elec_df %>%  -->
+<!-- #   mutate(weather_sims = map(data, shuffle_weather, fcst_start_dt, fcst_end_dt, trend_start)) -->
+<!-- ``` -->
+<!-- ### Residual resampling -->
+<!-- ```{r} -->
+<!-- ``` -->
+<!-- ## Hierarchical reconciliation -->
 </div>
 
                 </section>
