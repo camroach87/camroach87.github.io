@@ -3,6 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>/post/2018-09-28-gefcom2017-tut/</loc>
+    <lastmod>2018-10-14T03:02:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/post/2017-10-17-tidyverse-readr/</loc>
     <lastmod>2017-12-16T14:09:00+00:00</lastmod>
   </url>
@@ -29,12 +34,24 @@
   
   <url>
     <loc>/</loc>
-    <lastmod>2017-12-16T14:09:00+00:00</lastmod>
+    <lastmod>2018-10-14T03:02:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>/categories/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/electricity/</loc>
+    <lastmod>2018-10-14T03:02:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/forecasting/</loc>
+    <lastmod>2018-10-14T03:02:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -46,7 +63,7 @@
   
   <url>
     <loc>/post/</loc>
-    <lastmod>2017-12-16T14:09:00+00:00</lastmod>
+    <lastmod>2018-10-14T03:02:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -58,13 +75,13 @@
   
   <url>
     <loc>/tags/r/</loc>
-    <lastmod>2017-12-16T14:09:00+00:00</lastmod>
+    <lastmod>2018-10-14T03:02:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>/categories/r/</loc>
-    <lastmod>2017-12-16T14:09:00+00:00</lastmod>
+    <lastmod>2018-10-14T03:02:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -76,7 +93,7 @@
   
   <url>
     <loc>/tags/tutorial/</loc>
-    <lastmod>2017-12-16T14:09:00+00:00</lastmod>
+    <lastmod>2018-10-14T03:02:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   

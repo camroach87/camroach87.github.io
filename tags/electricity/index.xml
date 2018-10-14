@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Electricity on Cameron&#39;s blog</title>
+    <link>/tags/electricity/</link>
+    <description>Recent content in Electricity on Cameron&#39;s blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Sun, 14 Oct 2018 03:02:00 +0000</lastBuildDate>
+    
+	<atom:link href="/tags/electricity/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>My GEFCom2017 paper</title>
+      <link>/post/2018-09-28-gefcom2017-tut/</link>
+      <pubDate>Sun, 14 Oct 2018 03:02:00 +0000</pubDate>
+      
+      <guid>/post/2018-09-28-gefcom2017-tut/</guid>
+      <description>Caveat Emptor!: This is a work in progress! I’m refactoring the original code I wrote. Trying to find a nice balance between wrapping functions up in the gefcom2017 package and using existing R packages such as purrr. This post has been uploaded early so I can include a link in the paper.
+Introduction This post shows how to implement the model I propose in the paper “Reconciled boosted models for GEFCom2017 hierarchical probabilistic load forecasting”.</description>
+    </item>
+    
+  </channel>
+</rss>
