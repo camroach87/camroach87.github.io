@@ -6,18 +6,18 @@
     <description>Recent content in Forecasting on Cameron&#39;s blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 14 Oct 2018 03:20:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 21 Oct 2018 00:49:00 +0000</lastBuildDate>
     
 	<atom:link href="/tags/forecasting/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>My GEFCom2017 paper</title>
-      <link>/post/2018-09-28-gefcom2017-tut/</link>
-      <pubDate>Sun, 14 Oct 2018 03:20:00 +0000</pubDate>
+      <title>GEFCom2017 tutorial: part 1</title>
+      <link>/post/2018-09-28-gefcom2017-tut-1/</link>
+      <pubDate>Sun, 21 Oct 2018 00:49:00 +0000</pubDate>
       
-      <guid>/post/2018-09-28-gefcom2017-tut/</guid>
-      <description>Caveat Emptor!: This is a work in progress! I’m refactoring the original code I wrote. Trying to find a nice balance between wrapping functions up in the gefcom2017 package and using existing R packages such as purrr. This post has been uploaded early so I can include a link in the paper.
+      <guid>/post/2018-09-28-gefcom2017-tut-1/</guid>
+      <description>Caveat Emptor!: This is a work in progress! I’m refactoring the original code I wrote. Trying to find a nice balance between wrapping functions up in my gefcom2017 package and using existing R packages such as purrr. This post has been uploaded early so I can include a link in the paper.
 Introduction This post shows how to implement the model I propose in the paper “Reconciled boosted models for GEFCom2017 hierarchical probabilistic load forecasting”.</description>
     </item>
     
