@@ -3,6 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>/post/5-minute-tidyverse-ggplot2/</loc>
+    <lastmod>2018-12-11T03:48:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/post/2018-09-28-gefcom2017-tut-1/</loc>
     <lastmod>2018-10-21T00:49:00+00:00</lastmod>
   </url>
@@ -34,7 +39,7 @@
   
   <url>
     <loc>/</loc>
-    <lastmod>2018-10-21T00:49:00+00:00</lastmod>
+    <lastmod>2018-12-11T03:48:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -56,6 +61,12 @@
   </url>
   
   <url>
+    <loc>/tags/ggplot2/</loc>
+    <lastmod>2018-12-11T03:48:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>/tags/machine-learning/</loc>
     <lastmod>2017-10-15T22:47:00+00:00</lastmod>
     <priority>0</priority>
@@ -63,7 +74,7 @@
   
   <url>
     <loc>/post/</loc>
-    <lastmod>2018-10-21T00:49:00+00:00</lastmod>
+    <lastmod>2018-12-11T03:48:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -75,25 +86,25 @@
   
   <url>
     <loc>/tags/r/</loc>
-    <lastmod>2018-10-21T00:49:00+00:00</lastmod>
+    <lastmod>2018-12-11T03:48:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>/categories/r/</loc>
-    <lastmod>2018-10-21T00:49:00+00:00</lastmod>
+    <lastmod>2018-12-11T03:48:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>/tags/tidyverse/</loc>
-    <lastmod>2017-12-16T14:09:00+00:00</lastmod>
+    <lastmod>2018-12-11T03:48:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>/tags/tutorial/</loc>
-    <lastmod>2018-10-21T00:49:00+00:00</lastmod>
+    <lastmod>2018-12-11T03:48:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   

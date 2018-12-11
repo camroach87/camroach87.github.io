@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Ggplot2 on Cameron&#39;s blog</title>
+    <link>/tags/ggplot2/</link>
+    <description>Recent content in Ggplot2 on Cameron&#39;s blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Tue, 11 Dec 2018 03:48:00 +0000</lastBuildDate>
+    
+	<atom:link href="/tags/ggplot2/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>5 minute tidyverse: ggplot2</title>
+      <link>/post/5-minute-tidyverse-ggplot2/</link>
+      <pubDate>Tue, 11 Dec 2018 03:48:00 +0000</pubDate>
+      
+      <guid>/post/5-minute-tidyverse-ggplot2/</guid>
+      <description>R’s ggplot2 package allows for plots to be built up in layers. It ties in nicely with the tidyverse’s “tidy” way of structuring data, allowing different aesthetics of a plot to be controlled by variables in a data frame. An online reference is available from ggplot2.tidyverse.org/reference/.
+Geoms and aesthetics A typical ggplot2 function takes the following form:
+library(tidyverse) ggplot(diamonds, aes(x = carat, y = price, colour = clarity)) + geom_point() The initial ggplot call specifies the data frame to be used and the aesthetic mappings.</description>
+    </item>
+    
+  </channel>
+</rss>
