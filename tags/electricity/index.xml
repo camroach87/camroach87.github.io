@@ -6,7 +6,7 @@
     <description>Recent content in Electricity on Cameron&#39;s blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 21 Oct 2018 00:49:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 28 Sep 2018 14:35:00 +0000</lastBuildDate>
     
 	<atom:link href="/tags/electricity/index.xml" rel="self" type="application/rss+xml" />
     
@@ -14,11 +14,14 @@
     <item>
       <title>GEFCom2017 tutorial: part 1</title>
       <link>/post/2018-09-28-gefcom2017-tut-1/</link>
-      <pubDate>Sun, 21 Oct 2018 00:49:00 +0000</pubDate>
+      <pubDate>Fri, 28 Sep 2018 14:35:00 +0000</pubDate>
       
       <guid>/post/2018-09-28-gefcom2017-tut-1/</guid>
-      <description>Caveat Emptor!: This is a work in progress! I’m refactoring the original code I wrote. Trying to find a nice balance between wrapping functions up in my gefcom2017 package and using existing R packages such as purrr. This post has been uploaded early so I can include a link in the paper.
-Introduction This post shows how to implement the model I propose in the paper “Reconciled boosted models for GEFCom2017 hierarchical probabilistic load forecasting”.</description>
+      <description>Introduction This post shows how to implement the model I propose in the paper Reconciled boosted models for GEFCom2017 hierarchical probabilistic load forecasting (Roach 2018).
+Before starting, make sure you have the following packages installed:
+ tidyverse lubridate caret gefcom2017data.  To install the gefcom2017 package run:
+install.packages(&amp;quot;devtools&amp;quot;) devtools::install_github(&amp;quot;camroach87/gefcom2017data&amp;quot;) We will also be using the xgboost package, but caret should automatically install this when we fit models.
+Data The gefcom data frame contains the data we wish to work with.</description>
     </item>
     
   </channel>
