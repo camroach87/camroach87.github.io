@@ -12,16 +12,14 @@
     
     
     <item>
-      <title>GEFCom2017 tutorial: part 1</title>
+      <title>GEFCom2017 tutorial</title>
       <link>/post/2018-09-28-gefcom2017-tut-1/</link>
       <pubDate>Fri, 28 Sep 2018 14:35:00 +0000</pubDate>
       
       <guid>/post/2018-09-28-gefcom2017-tut-1/</guid>
-      <description>Introduction This post shows how to implement the model I propose in the paper Reconciled boosted models for GEFCom2017 hierarchical probabilistic load forecasting (Roach 2018).
-Before starting, make sure you have the following packages installed:
- tidyverse lubridate caret gefcom2017data.  To install the gefcom2017 package run:
-install.packages(&amp;quot;devtools&amp;quot;) devtools::install_github(&amp;quot;camroach87/gefcom2017data&amp;quot;) We will also be using the xgboost package, but caret should automatically install this when we fit models.
-Data The gefcom data frame contains the data we wish to work with.</description>
+      <description>Update (28 January, 2020). I have decided to post the paper’s code in dedicated GitHub repositories instead of a tidied up walkthrough.
+Code, R markdown files and a preprint of the paper Reconciled boosted models for GEFCom2017 hierarchical probabilistic load forecasting (Roach 2018) can be found at my 1701-gefcom github repository.
+A dedicated package that includes the tidied competition data in .rda format can be found at my gefcom2017data repository. This repository also includes the original excel spreadsheets released by ISO New England, US federal holidays and the functions used to tidy and format the raw data.</description>
     </item>
     
   </channel>
