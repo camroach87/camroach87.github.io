@@ -3,6 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>/post/estimating-electricity-impact-profiles-for-building-characteristics-using-smart-meter-data-and-mixed-models/</loc>
+    <lastmod>2020-01-28T21:13:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/post/5-minute-tidyverse-ggplot2/</loc>
     <lastmod>2018-12-11T03:48:00+00:00</lastmod>
   </url>
@@ -39,7 +44,7 @@
   
   <url>
     <loc>/</loc>
-    <lastmod>2018-12-11T03:48:00+00:00</lastmod>
+    <lastmod>2020-01-28T21:13:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -50,12 +55,18 @@
   
   <url>
     <loc>/tags/electricity/</loc>
-    <lastmod>2018-09-28T14:35:00+00:00</lastmod>
+    <lastmod>2020-01-28T21:13:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>/tags/forecasting/</loc>
+    <lastmod>2020-01-28T21:13:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/gefcom2017/</loc>
     <lastmod>2018-09-28T14:35:00+00:00</lastmod>
     <priority>0</priority>
   </url>
@@ -74,13 +85,19 @@
   
   <url>
     <loc>/tags/paper/</loc>
-    <lastmod>2018-09-28T14:35:00+00:00</lastmod>
+    <lastmod>2020-01-28T21:13:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/categories/paper/</loc>
+    <lastmod>2020-01-28T21:13:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>/post/</loc>
-    <lastmod>2018-12-11T03:48:00+00:00</lastmod>
+    <lastmod>2020-01-28T21:13:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -91,14 +108,20 @@
   </url>
   
   <url>
+    <loc>/tags/r/</loc>
+    <lastmod>2020-01-28T21:13:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>/categories/r/</loc>
     <lastmod>2018-12-11T03:48:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/tags/r/</loc>
-    <lastmod>2018-12-11T03:48:00+00:00</lastmod>
+    <loc>/tags/smart-meters/</loc>
+    <lastmod>2020-01-28T21:13:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   

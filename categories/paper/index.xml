@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Forecasting on Cameron&#39;s blog</title>
-    <link>/tags/forecasting/</link>
-    <description>Recent content in Forecasting on Cameron&#39;s blog</description>
+    <title>Paper on Cameron&#39;s blog</title>
+    <link>/categories/paper/</link>
+    <description>Recent content in Paper on Cameron&#39;s blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <lastBuildDate>Tue, 28 Jan 2020 21:13:00 +0000</lastBuildDate>
     
-	<atom:link href="/tags/forecasting/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/categories/paper/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>

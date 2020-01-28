@@ -14,7 +14,7 @@
     <item>
       <title>Electricity</title>
       <link>/tags/electricity/</link>
-      <pubDate>Fri, 28 Sep 2018 14:35:00 +0000</pubDate>
+      <pubDate>Tue, 28 Jan 2020 21:13:00 +0000</pubDate>
       
       <guid>/tags/electricity/</guid>
       <description></description>
@@ -23,9 +23,18 @@
     <item>
       <title>Forecasting</title>
       <link>/tags/forecasting/</link>
-      <pubDate>Fri, 28 Sep 2018 14:35:00 +0000</pubDate>
+      <pubDate>Tue, 28 Jan 2020 21:13:00 +0000</pubDate>
       
       <guid>/tags/forecasting/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Gefcom2017</title>
+      <link>/tags/gefcom2017/</link>
+      <pubDate>Fri, 28 Sep 2018 14:35:00 +0000</pubDate>
+      
+      <guid>/tags/gefcom2017/</guid>
       <description></description>
     </item>
     
@@ -50,7 +59,7 @@
     <item>
       <title>Paper</title>
       <link>/tags/paper/</link>
-      <pubDate>Fri, 28 Sep 2018 14:35:00 +0000</pubDate>
+      <pubDate>Tue, 28 Jan 2020 21:13:00 +0000</pubDate>
       
       <guid>/tags/paper/</guid>
       <description></description>
@@ -68,9 +77,18 @@
     <item>
       <title>R</title>
       <link>/tags/r/</link>
-      <pubDate>Tue, 11 Dec 2018 03:48:00 +0000</pubDate>
+      <pubDate>Tue, 28 Jan 2020 21:13:00 +0000</pubDate>
       
       <guid>/tags/r/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Smart Meters</title>
+      <link>/tags/smart-meters/</link>
+      <pubDate>Tue, 28 Jan 2020 21:13:00 +0000</pubDate>
+      
+      <guid>/tags/smart-meters/</guid>
       <description></description>
     </item>
     
