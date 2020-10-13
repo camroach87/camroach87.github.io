@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Cameron&#39;s blog</title>
@@ -30,47 +30,11 @@
     </item>
     
     <item>
-      <title>Gefcom2017</title>
-      <link>/tags/gefcom2017/</link>
-      <pubDate>Fri, 28 Sep 2018 14:35:00 +0000</pubDate>
-      
-      <guid>/tags/gefcom2017/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Ggplot2</title>
-      <link>/tags/ggplot2/</link>
-      <pubDate>Tue, 11 Dec 2018 03:48:00 +0000</pubDate>
-      
-      <guid>/tags/ggplot2/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Machine Learning</title>
-      <link>/tags/machine-learning/</link>
-      <pubDate>Sun, 15 Oct 2017 22:47:00 +0000</pubDate>
-      
-      <guid>/tags/machine-learning/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Paper</title>
       <link>/tags/paper/</link>
       <pubDate>Tue, 28 Jan 2020 21:13:00 +0000</pubDate>
       
       <guid>/tags/paper/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Python</title>
-      <link>/tags/python/</link>
-      <pubDate>Sun, 15 Oct 2017 22:47:00 +0000</pubDate>
-      
-      <guid>/tags/python/</guid>
       <description></description>
     </item>
     
@@ -84,7 +48,7 @@
     </item>
     
     <item>
-      <title>Smart Meters</title>
+      <title>Smart-meters</title>
       <link>/tags/smart-meters/</link>
       <pubDate>Tue, 28 Jan 2020 21:13:00 +0000</pubDate>
       
@@ -93,7 +57,16 @@
     </item>
     
     <item>
-      <title>Tidyverse</title>
+      <title>ggplot2</title>
+      <link>/tags/ggplot2/</link>
+      <pubDate>Tue, 11 Dec 2018 03:48:00 +0000</pubDate>
+      
+      <guid>/tags/ggplot2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>tidyverse</title>
       <link>/tags/tidyverse/</link>
       <pubDate>Tue, 11 Dec 2018 03:48:00 +0000</pubDate>
       
@@ -107,6 +80,15 @@
       <pubDate>Tue, 11 Dec 2018 03:48:00 +0000</pubDate>
       
       <guid>/tags/tutorial/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>GEFCom2017</title>
+      <link>/tags/gefcom2017/</link>
+      <pubDate>Fri, 28 Sep 2018 14:35:00 +0000</pubDate>
+      
+      <guid>/tags/gefcom2017/</guid>
       <description></description>
     </item>
     

@@ -1,9 +1,9 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Smart Meters on Cameron&#39;s blog</title>
+    <title>Smart-meters on Cameron&#39;s blog</title>
     <link>/tags/smart-meters/</link>
-    <description>Recent content in Smart Meters on Cameron&#39;s blog</description>
+    <description>Recent content in Smart-meters on Cameron&#39;s blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <lastBuildDate>Tue, 28 Jan 2020 21:13:00 +0000</lastBuildDate>
@@ -17,7 +17,7 @@
       <pubDate>Tue, 28 Jan 2020 21:13:00 +0000</pubDate>
       
       <guid>/post/estimating-electricity-impact-profiles-for-building-characteristics-using-smart-meter-data-and-mixed-models/</guid>
-      <description>My paper “Estimating electricity impact profiles for building characteristics using smart meter data and mixed models” (Roach 2019) was recently accepted by the journal Energy and Buildings. Code for this paper is now available on GitHub at my 1801-mmme repository.
+      <description> My paper “Estimating electricity impact profiles for building characteristics using smart meter data and mixed models” (Roach 2019) was recently accepted by the journal Energy and Buildings. Code for this paper is now available on GitHub at my 1801-mmme repository.
 References Roach, Cameron. 2019. “Estimating Electricity Impact Profiles for Building Characteristics Using Smart Meter Data and Mixed Models.” Energy and Buildings, December, 109686. doi:10.1016/j.enbuild.2019.109686.
    </description>
     </item>

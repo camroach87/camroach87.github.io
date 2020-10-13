@@ -6,7 +6,7 @@
 		<meta name="viewport" content="width=device-width, initial-scale=1">
 		<meta name="author" content="Cameron Roach">
 		<meta name="description" content="A data science blog">
-		<meta name="generator" content="Hugo 0.21" />
+		<meta name="generator" content="Hugo 0.65.3" />
 		<title>5 minute tidyverse: ggplot2 &middot; Cameron&#39;s blog</title>
 		<link rel="shortcut icon" href="/images/favicon.ico">
 		<link rel="stylesheet" href="/css/style.css">
@@ -72,7 +72,10 @@
                 </header>
                 
                 <section id="post-body">
-                    <p>R’s <code>ggplot2</code> package allows for plots to be built up in layers. It ties in nicely with the tidyverse’s “tidy” way of structuring data, allowing different aesthetics of a plot to be controlled by variables in a data frame. An online reference is available from <a href="https://ggplot2.tidyverse.org/reference/">ggplot2.tidyverse.org/reference/</a>.</p>
+                    
+
+
+<p>R’s <code>ggplot2</code> package allows for plots to be built up in layers. It ties in nicely with the tidyverse’s “tidy” way of structuring data, allowing different aesthetics of a plot to be controlled by variables in a data frame. An online reference is available from <a href="https://ggplot2.tidyverse.org/reference/">ggplot2.tidyverse.org/reference/</a>.</p>
 <div id="geoms-and-aesthetics" class="section level2">
 <h2>Geoms and aesthetics</h2>
 <p>A typical <code>ggplot2</code> function takes the following form:</p>
@@ -165,28 +168,6 @@ ggplot(diamonds, aes(x = carat, y = price, colour = clarity)) +
             
 
             
-<section id="comments">
-  <div id="disqus_thread"></div>
-  <script>
-  var disqus_config = function () {
-  
-  };
-  (function() {
-    var inIFrame = function() {
-      var iframe = true;
-      try { iframe = window.self !== window.top; } catch (e) {}
-      return iframe;
-    };
-    if (inIFrame()) return;
-    var d = document, s = d.createElement('script');
-    s.src = '//camroach87-github-io.disqus.com/embed.js'; s.async = true;
-    s.setAttribute('data-timestamp', +new Date());
-    (d.head || d.body).appendChild(s);
-  })();
-  </script>
-  <noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
-</section>
-
 
 
             
@@ -233,14 +214,17 @@ ggplot(diamonds, aes(x = carat, y = price, colour = clarity)) +
 
 
   
-<script>
-(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
-(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
-m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
-})(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
-
-ga('create', 'UA-108233353-1', 'auto');
-ga('send', 'pageview');
+<script type="application/javascript">
+var doNotTrack = false;
+if (!doNotTrack) {
+	(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+	(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+	m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+	})(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+	ga('create', 'UA-108233353-1', 'auto');
+	
+	ga('send', 'pageview');
+}
 </script>
 
 

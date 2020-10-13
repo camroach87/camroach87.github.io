@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>R on Cameron&#39;s blog</title>
@@ -40,16 +40,6 @@ This post introduces some basics of loading data using a csv.</description>
       <guid>/post/2017-11-25-tidyverse/</guid>
       <description>This series of blog posts gives a brief introduction to R’s tidyverse. The tidyverse is a fantastic framework for shaping, exploring and visualising data. Consistent syntax, intuitive behaviour and excellent performance are the main reasons to learn this set of tools. Furthermore, tidyverse packages have stickers that may be assembled into a geometrically pleasing hex formation.
  Figure 1: I’ll never stop.  Structure Each of the key tidyverse packages will be introduced in a separate post.</description>
-    </item>
-    
-    <item>
-      <title>A new blog</title>
-      <link>/post/2017-10-15-a-new-blog/</link>
-      <pubDate>Sun, 15 Oct 2017 22:47:00 +0000</pubDate>
-      
-      <guid>/post/2017-10-15-a-new-blog/</guid>
-      <description>Many of my friends and colleagues in the data science world maintain blogs. Research, insights and tutorials are frequently posted which I often benefit from. I’m always amazed by the talent and generosity of others in this field. The open source communities of R and Python are quite special.
-This blog is my attempt to give something back. My background is in probability and statistics though I do not consider myself much of a mathematician.</description>
     </item>
     
   </channel>

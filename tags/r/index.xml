@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>R on Cameron&#39;s blog</title>
@@ -17,7 +17,7 @@
       <pubDate>Tue, 28 Jan 2020 21:13:00 +0000</pubDate>
       
       <guid>/post/estimating-electricity-impact-profiles-for-building-characteristics-using-smart-meter-data-and-mixed-models/</guid>
-      <description>My paper “Estimating electricity impact profiles for building characteristics using smart meter data and mixed models” (Roach 2019) was recently accepted by the journal Energy and Buildings. Code for this paper is now available on GitHub at my 1801-mmme repository.
+      <description> My paper “Estimating electricity impact profiles for building characteristics using smart meter data and mixed models” (Roach 2019) was recently accepted by the journal Energy and Buildings. Code for this paper is now available on GitHub at my 1801-mmme repository.
 References Roach, Cameron. 2019. “Estimating Electricity Impact Profiles for Building Characteristics Using Smart Meter Data and Mixed Models.” Energy and Buildings, December, 109686. doi:10.1016/j.enbuild.2019.109686.
    </description>
     </item>
@@ -41,7 +41,7 @@ library(tidyverse) ggplot(diamonds, aes(x = carat, y = price, colour = clarity))
       <guid>/post/2018-09-28-gefcom2017-tut-1/</guid>
       <description>Update (28 January, 2020). I have decided to post the paper’s code in dedicated GitHub repositories instead of a tidied up walkthrough.
 Code, R markdown files and a preprint of the paper Reconciled boosted models for GEFCom2017 hierarchical probabilistic load forecasting (Roach 2018) can be found at my 1701-gefcom github repository.
-A dedicated package that includes the tidied competition data in .rda format can be found at my gefcom2017data repository. This repository also includes the original excel spreadsheets released by ISO New England, US federal holidays and the functions used to tidy and format the raw data.</description>
+A dedicated package that includes the tidied competition data in .rda format can be found at my gefcom2017data repository.</description>
     </item>
     
     <item>
@@ -62,16 +62,6 @@ This post introduces some basics of loading data using a csv.</description>
       <guid>/post/2017-11-25-tidyverse/</guid>
       <description>This series of blog posts gives a brief introduction to R’s tidyverse. The tidyverse is a fantastic framework for shaping, exploring and visualising data. Consistent syntax, intuitive behaviour and excellent performance are the main reasons to learn this set of tools. Furthermore, tidyverse packages have stickers that may be assembled into a geometrically pleasing hex formation.
  Figure 1: I’ll never stop.  Structure Each of the key tidyverse packages will be introduced in a separate post.</description>
-    </item>
-    
-    <item>
-      <title>A new blog</title>
-      <link>/post/2017-10-15-a-new-blog/</link>
-      <pubDate>Sun, 15 Oct 2017 22:47:00 +0000</pubDate>
-      
-      <guid>/post/2017-10-15-a-new-blog/</guid>
-      <description>Many of my friends and colleagues in the data science world maintain blogs. Research, insights and tutorials are frequently posted which I often benefit from. I’m always amazed by the talent and generosity of others in this field. The open source communities of R and Python are quite special.
-This blog is my attempt to give something back. My background is in probability and statistics though I do not consider myself much of a mathematician.</description>
     </item>
     
   </channel>

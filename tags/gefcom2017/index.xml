@@ -1,9 +1,9 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Gefcom2017 on Cameron&#39;s blog</title>
+    <title>GEFCom2017 on Cameron&#39;s blog</title>
     <link>/tags/gefcom2017/</link>
-    <description>Recent content in Gefcom2017 on Cameron&#39;s blog</description>
+    <description>Recent content in GEFCom2017 on Cameron&#39;s blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <lastBuildDate>Fri, 28 Sep 2018 14:35:00 +0000</lastBuildDate>
@@ -19,7 +19,7 @@
       <guid>/post/2018-09-28-gefcom2017-tut-1/</guid>
       <description>Update (28 January, 2020). I have decided to post the paper’s code in dedicated GitHub repositories instead of a tidied up walkthrough.
 Code, R markdown files and a preprint of the paper Reconciled boosted models for GEFCom2017 hierarchical probabilistic load forecasting (Roach 2018) can be found at my 1701-gefcom github repository.
-A dedicated package that includes the tidied competition data in .rda format can be found at my gefcom2017data repository. This repository also includes the original excel spreadsheets released by ISO New England, US federal holidays and the functions used to tidy and format the raw data.</description>
+A dedicated package that includes the tidied competition data in .rda format can be found at my gefcom2017data repository.</description>
     </item>
     
   </channel>

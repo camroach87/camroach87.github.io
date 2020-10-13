@@ -1,6 +1,21 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>/</loc>
+    <lastmod>2020-01-28T21:13:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/categories/</loc>
+    <lastmod>2020-01-28T21:13:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/electricity/</loc>
+    <lastmod>2020-01-28T21:13:00+00:00</lastmod>
+  </url>
   
   <url>
     <loc>/post/estimating-electricity-impact-profiles-for-building-characteristics-using-smart-meter-data-and-mixed-models/</loc>
@@ -8,8 +23,63 @@
   </url>
   
   <url>
+    <loc>/tags/forecasting/</loc>
+    <lastmod>2020-01-28T21:13:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/paper/</loc>
+    <lastmod>2020-01-28T21:13:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/categories/paper/</loc>
+    <lastmod>2020-01-28T21:13:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/</loc>
+    <lastmod>2020-01-28T21:13:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/r/</loc>
+    <lastmod>2020-01-28T21:13:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/smart-meters/</loc>
+    <lastmod>2020-01-28T21:13:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/post/5-minute-tidyverse-ggplot2/</loc>
     <lastmod>2018-12-11T03:48:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/ggplot2/</loc>
+    <lastmod>2018-12-11T03:48:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/categories/r/</loc>
+    <lastmod>2018-12-11T03:48:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/tidyverse/</loc>
+    <lastmod>2018-12-11T03:48:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/tutorial/</loc>
+    <lastmod>2018-12-11T03:48:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/gefcom2017/</loc>
+    <lastmod>2018-09-28T14:35:00+00:00</lastmod>
   </url>
   
   <url>
@@ -33,108 +103,8 @@
   </url>
   
   <url>
-    <loc>/post/2017-10-15-a-new-blog/</loc>
-    <lastmod>2017-10-15T22:47:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>/tags/</loc>
     <lastmod>2015-06-20T14:02:37+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/</loc>
-    <lastmod>2020-01-28T21:13:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/categories/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/tags/electricity/</loc>
-    <lastmod>2020-01-28T21:13:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/tags/forecasting/</loc>
-    <lastmod>2020-01-28T21:13:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/tags/gefcom2017/</loc>
-    <lastmod>2018-09-28T14:35:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/tags/ggplot2/</loc>
-    <lastmod>2018-12-11T03:48:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/tags/machine-learning/</loc>
-    <lastmod>2017-10-15T22:47:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/tags/paper/</loc>
-    <lastmod>2020-01-28T21:13:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/categories/paper/</loc>
-    <lastmod>2020-01-28T21:13:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/post/</loc>
-    <lastmod>2020-01-28T21:13:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/tags/python/</loc>
-    <lastmod>2017-10-15T22:47:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/tags/r/</loc>
-    <lastmod>2020-01-28T21:13:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/categories/r/</loc>
-    <lastmod>2018-12-11T03:48:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/tags/smart-meters/</loc>
-    <lastmod>2020-01-28T21:13:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/tags/tidyverse/</loc>
-    <lastmod>2018-12-11T03:48:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/tags/tutorial/</loc>
-    <lastmod>2018-12-11T03:48:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
 </urlset>
